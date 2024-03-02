@@ -16,4 +16,5 @@ So when the city is considering how to set access levels and sensitivity of data
 In the context of the privacy challenge question 3 (a laptop gets stolen), this means that a network analysis ought to be done to understand who else's privacy is now vulnerable, and who has been the victim of a previous data breach. 
 This is a tall order, technologically, but is not all-or-nothing.
 
-Implementing remote wiping of data is possible today. But whether or any other technical intervention, we feel the city ought to have a resident security expert - whether they be a developer or someone who knows who to hire and maintain the code base or the third-party softwware.
+**Privacy Challenge**
+Implementing remote wiping of data is possible today. So is the implementation of restricted APIs for accessing data. A practical issue is the maintenance of that software, making sure it functions correctly, etc. Whether this or any other technical intervention, some of us felt that the city ought to have a resident security expert(s) - whether they be a developer or someone who knows who to hire and maintain the code base or the third-party software. Such a person (or persons) ought to have minimally conflicting charters, so privacy and security are not made subordinate to other considerations like economic development (important as that might be).
