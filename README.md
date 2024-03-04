@@ -4,7 +4,7 @@
 - Right to be Forgotten and Privacy Bots
 - Privacy concerns of Related Data Sets (Function Creep)
 
-**Relational privacy**
+**Relational aspects privacy**
 So far privacy is thought of as an individual-based concept: what does this data reveal about this individual, what risks ensue when the `wrong' entities access it, etc.
 But some aspects of privacy are communal: data about one individual reveals something about other individuals or communities. Examples include genetic data, location data, and immigration status. We call this communal privacy.
 Moreover, it may be that data X is shareable because. But when combined with data Y, it constitutes an undue invasion of privacy for the individual. 
